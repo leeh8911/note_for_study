@@ -12,6 +12,7 @@
 * [Jupyter-kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels):(`정리필요`)
 * [Deep-RL with pytorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) : (open source)파이토치 기반의 심층 강화 학습
 * [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/abs/1605.06431):(논문) ResNet관련 논문
+* [LaTeX/Mathmatics](https://en.wikibooks.org/wiki/LaTeX/Mathematics#Inserting_%22Displayed%22_maths_inside_blocks_of_text) : (참고자료) LaTex 수식 
 
 # 구분 별 읽기 목록
 
