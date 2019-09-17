@@ -12,6 +12,12 @@
 * [Jupyter-kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels):(`정리필요`)
 * [Deep-RL with pytorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) : (open source)파이토치 기반의 심층 강화 학습
 * [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/abs/1605.06431):(논문) ResNet관련 논문
+* [알렉산더 그로텐디크](https://namu.wiki/w/%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94%20%EA%B7%B8%EB%A1%9C%ED%85%90%EB%94%94%ED%81%AC) : (위키)20세기 최고의 기하학자
+* [Data Analyst vs Engineer vs Scientist](https://youtu.be/ioZNNfxXXqo) : (유튜브)데이터 분석가 vs 엔지니어 vs 과학자
+* [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) : (open source) photorealistic img2img translation
+* [어떻게 공부할 것인가](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788937834868&orderClick=LEA&Kc=) (책)
+* [컴퓨터 공학 관련 대학 순위](https://www.topuniversities.com/university-rankings/university-subject-rankings/2019/computer-science-information-systems) : (홈페이지) 유명 대학 순위?
+* [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/) : (블로그)In this article I will share my ensembling approaches for Kaggle Competitions.
 
 # 구분 별 읽기 목록
 
